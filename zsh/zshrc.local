@@ -1,0 +1,8 @@
+ZSH="$HOME/.zsh"
+
+source /usr/share/zsh/plugins/zsh-syntax-highlight/zsh-syntax-highlighting.zsh
+source /usr/share/zsh/plugins/zsh-history-substring-search/zsh-history-substring-search.zsh
+source /usr/share/zsh/plugins/archlinux/archlinux.plugin.zsh
+
+source $ZSH/keys.zsh
+source $ZSH/aliases.zsh
